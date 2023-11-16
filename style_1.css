@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.All{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: maroon;
+}
+
+.img{
+    position: relative;
+    width: 150px;
+    top: 2.5px;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    color: aliceblue;
+}
+
+.doc{
+    position: relative;
+    left: 1000px;
+    top:170px;
+    width: 100%;
+}
+
+.call{
+    position: relative;
+    left: 250px;
+    bottom: 150px;
+}
+
+.pp{
+    font-size: 40px;
+    color: brown;
+}
+button{
+    padding: 15px 25px;
+    color: aliceblue;
+    border: none;
+}
+
+.doc_btn{
+    background-color: firebrick;
+}
+
+.app_btn{
+    background-color: firebrick;
+}
+
+.p{
+    font-size: 4000;
+    color: black;
+}
+
+.ppp{
+    font-size:100px;
+    color: brown;
+    text-align: center;
+}
+
+.all_diseaes_picture{
+    width: 50%;
+}
+
+.service_1{
+    height: 370px;
+    width: 300px;
+    box-shadow: 8px 8px 16px gray;
+    text-align: center;
+    position: relative;
+    padding: 18px;
+}
+
+
+.parent_box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+}
+
+.con{
+    color: darkred;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.Input_Box{
+    padding: 20px 60px;
+    margin: 10px;
+}
+
+.User_contact{
+    text-align: center;
+
+}
+
+.sub_btn{
+    padding: 10px 15px;
+    background-color: brown;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.last_All{
+    text-align: center;
+    display: flex;
+    gap: 60px;
+    background-color: brown;
+    color: aliceblue;
+    padding: 120px;
+}
+
+.about{
+    list-style: none;
+}
+
+.A{
+    width: 10%;
+}
+
+.description{
+    position: relative;
+    bottom: 55px;
+}
+
+.U{
+    position: relative;
+    bottom: 32px;
+    left: 55px;
+}
+
+.fb{
+    width: 2%;
+    position: relative;
+}
+
+.at_last{
+    display: flex;
+    
+    justify-content: center;
+    position: relative;
+    bottom: 170px;
+    gap: 50px;
+
+}
+
+.last{
+    
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+
+}
+
+.plus_sign{
+    width: 10%;
+}
